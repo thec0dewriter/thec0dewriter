@@ -44,14 +44,7 @@ Certifications: Azure Data Scientist Associate, Azure Data Engineer Associate,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thec0dewriter&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thec0dewriter&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thec0dewriter&layout=compact&theme=radical)
-
+ 
 <!--
 ## 🌟 Featured Projects
 
