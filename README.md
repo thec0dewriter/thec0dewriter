@@ -39,12 +39,12 @@ Tools:         Azure DevOps, Docker, GitHub, Jupyter, VS Code, Azure CLI, Kubern
 Certifications: Azure Data Scientist Associate, Azure Data Engineer Associate, 
                Azure AI Engineer Associate, Databricks Certified Data Engineer
 ```
-
+<!---
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thec0dewriter&show_icons=true&theme=radical)
 
- 
+ -->
 <!--
 ## 🌟 Featured Projects
 
